@@ -1,1 +1,2 @@
 # Kακός_Keylogger
+I am working on a project to simulate a keylogger with some level of persistence. The goal is to inject the executable into the run registry setting. This will allow the keylogger to start automatically every time the system boots up. By doing this, the kakos keylogger will be able to record all keystrokes made on the system. I am excited to see how this project will turn out and what insights we can gain from it.
