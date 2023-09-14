@@ -3,7 +3,7 @@ I am working on a project to simulate a keylogger with some level of persistence
 
 # Instructions
 
-Navigate to https://git-scm.com/downloads
+Navigate to https://git-scm.com/downloads.
 Download Git for Windows
 
 From C:\
