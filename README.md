@@ -5,5 +5,13 @@ I am working on a project to simulate a keylogger with some level of persistence
 
 Navigate to https://git-scm.com/downloads and download Git for Windows.
 
+Open command prompt. You do not need to run as Administrator
+
+Change directory to C:\
+
 From C:\
-git clone https://github.com/kakos1301/kAkOs_Keylogger.git
+C:\>git clone https://github.com/kakos1301/kAkOs_Keylogger.git
+
+C:\>cd kAkOs_Keylogger
+
+
