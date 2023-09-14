@@ -3,8 +3,7 @@ I am working on a project to simulate a keylogger with some level of persistence
 
 # Instructions
 
-Navigate to https://git-scm.com/downloads.
-Download Git for Windows
+Navigate to https://git-scm.com/downloads and download Git for Windows.
 
 From C:\
 git clone https://github.com/kakos1301/kAkOs_Keylogger.git
