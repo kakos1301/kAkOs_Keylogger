@@ -32,6 +32,6 @@ Change directory to C:\>kAkOs_Keylogger\
 
 C:\>cd kAkOs_Keylogger
 
-Open the keylogger.txt file
+Open the keylogger text file
 ```
 ![image](https://github.com/kakos1301/kAkOs_Keylogger/assets/144972038/ab84af6a-aa9a-43e0-890b-32222f957dd0)
