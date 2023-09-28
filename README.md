@@ -16,9 +16,11 @@ C:\>cd kAkOs_Keylogger
 
 C:\>keylogger.bat
 
-Reboot Windows 10 or 11 system
+Reboot the Windows 10 system
 ```
 
 ## Test
 
 ```
+Change directory to C:\>kAkOs_Keylogger\
+
