@@ -24,7 +24,8 @@ Reboot the Windows 10 system
 
 Launch Task Manager
 
-![image](https://github.com/kakos1301/kAkOs_Keylogger/assets/144972038/79303b1a-785c-465d-8e91-1e4b1ddbb907)
+![image](https://github.com/kakos1301/kAkOs_Keylogger/assets/144972038/3786c272-d864-4511-b80c-8eab3925af93)
+
 
 ```
 Change directory to C:\>kAkOs_Keylogger\
