@@ -1,5 +1,5 @@
 # Kακός_Keylogger
-I am working on a project to simulate a keylogger with some level of persistence. The goal is to inject the executable into the autorun registry setting. This will allow the keylogger to start automatically every time the system boots up. By doing this, the keylogger can record all keystrokes made on the system.
+The goal is to inject the executable into the autorun registry setting. This will allow the keylogger to start automatically every time the system boots up. By doing this, the keylogger can record all keystrokes made on the system.
 
 ## Execution
 
